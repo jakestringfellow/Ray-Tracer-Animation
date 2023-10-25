@@ -1,5 +1,10 @@
 # Ray-Tracer: 3D Renderer
 
+<div class="image-container">
+      <img src="./common/poke_roll_hi_res_slow.gif" height="250px"  alt="captured pokemon">
+    
+</div>
+
 <h2> Description </h2>
 A sophisticated ray tracing engine designed to simulate light propagation and produce realistic images by tracing rays of light as they interact with virtual objects. This engine was developed in C++ and harnesses multi-threading capabilities to optimize performance.
 
