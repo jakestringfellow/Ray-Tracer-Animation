@@ -2,6 +2,9 @@
 
 <div class="image-container">
       <img src="./common/poke_roll_hi_res_slow.gif" height="250px"  alt="captured pokemon">
+      <img src="./media/deconstruction.gif" height="250px"  alt="deconstruction">
+      <img src="./media/rotating_earth.gif" height="250px"  alt="earth">
+      
     
 </div>
 
